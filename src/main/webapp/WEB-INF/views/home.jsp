@@ -7,6 +7,7 @@
 <title>WeGo</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <link rel="icon" href="img/favicon.png">
+   <script src="https://t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
     <link rel="stylesheet" href="<%=application.getContextPath()%>/resources/css/bootstrap.min.css">
     <link rel="stylesheet" href="<%=application.getContextPath()%>/resources/css/animate.css">
     <link rel="stylesheet" href="<%=application.getContextPath()%>/resources/css/owl.carousel.min.css">
