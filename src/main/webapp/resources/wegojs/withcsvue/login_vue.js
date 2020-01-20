@@ -2,8 +2,6 @@ var login_vue = login_vue || {}
 login_vue = {
 	login_body: () => {
 		return `<section class="inner-page-contents">
-      
-      
       <div class="container">
         <div class="row">
           <!-- LEFT COLUMN STARTS-->
