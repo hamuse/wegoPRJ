@@ -10,6 +10,8 @@ login_vue = {
             <section>
               <div class="row login-form">
               
+
+              
               <div >카톡로그임 , 페북로그인 , 네이버로그인 , 구글로그인</div>
 
                 <div class="input_form" style="width: 50%; margin-left: 25%;">
